@@ -19,4 +19,4 @@ Here are some ideas to get you started:
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ja5efzpff5rlzcb5he08mo643&cover_image=true&theme=default&show_offline=false&background_color=500c3a&interchange=true&profanity=false&bar_color=ffc800">
   </a>
 </p>
-<p align=center> <img src=https://komarev.com/ghpvc/?username=lamanchacarnival&color=ffef23&style=flat-square&label=my+dreams&base=0>
+<p align=center> <img src=https://komarev.com/ghpvc/?username=lamanchacarnival&color=ffef23&style=flat-square&label=my+dreams&base=863>
