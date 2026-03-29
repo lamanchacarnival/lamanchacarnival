@@ -34,4 +34,3 @@ Here are some ideas to get you started:
 
 <p align=center>  me lamenting </p>
 
-<img src="https://camo.githubusercontent.com/aa29b393bc7cbeff7bba8d784ffd7d13a950bdc47aa44e09515d947a7cbd00c3/68747470733a2f2f6c617374666d2d726563656e746c792d706c617965642e76657263656c2e6170702f6170693f757365723d506572697368616c6c2662675f636f6c6f723d343430303735266c6f7665643d74727565" alt="My scrobbles" data-canonical-src="https://lastfm-recently-played.vercel.app/api?user=bbbbbasii" style="max-width: 100%;">
