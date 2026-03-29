@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 
 <p align=center>  me lamenting </p>
 
+<p align=center> ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bbbbbasii) </p>
