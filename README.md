@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 <p align=center>  <img src="https://media1.tenor.com/m/DxhMXkrASFkAAAAd/don-quixote-limbus.gif" width="300" height="300" alt="me lamenting">
 
 <p align=center>  me lamenting </p>
+
+<p align=center > ![My scrobbles](https://lastfm-recently-played.vercel.app/api?bbbbbasii=JeffreyCA01) </p>
