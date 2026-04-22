@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align=center>  <img src="https://64.media.tumblr.com/3d825f9cc86699bea53f494aa702393f/16375aa3c2ccaa0b-21/s1280x1920/be2a3e45320836728f9245a28a27be40654e7e25.png" width="500" height="500" alt="me lamenting">
-
 
 <p align=center>  <img src="https://media1.tenor.com/m/DxhMXkrASFkAAAAd/don-quixote-limbus.gif" width="300" height="300" alt="me lamenting">
 
