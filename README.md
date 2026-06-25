@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align=center> <img src="https://pbs.twimg.com/media/Gzpe0YJbAAAfCUQ?format=jpg" width="700" height="500" alt="me right now">
 <p align=center> <img src=https://komarev.com/ghpvc/?username=lamanchacarnival&color=ffef23&style=flat-square&label=my+dreams&base=863>
 
-<p align=center> <b>DONQUI</b> . Yuva . +more </p>
+<p align=center> <b>DONQUI</b> . Yuva . +more || evil system. look at our evil evil profile [here](https://pluralkit.xyz/f/upwnts) for who front (it might not be accurate)!!!!!!!!!!!!!!!!!! </p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
