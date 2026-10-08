@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 <p align=center> <b>DONQUI</b> . Yuva . +more || evil system. look at our evil evil profile here for who front (it might not be accurate)!!!!!!!!!!!!!!!!!! https://pluralkit.xyz/f/upwnts </p>
 
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ja5efzpff5rlzcb5he08mo643&cover_image=true&theme=default&show_offline=false&background_color=500c3a&interchange=true&profanity=false&bar_color=ffc800">
-  </a>
-</p>
-
 
 <p align=center> <img src="https://files.catbox.moe/cnxwwm.png" alt="me right now">
 
