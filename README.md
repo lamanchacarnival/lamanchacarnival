@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 <p align=center> <img src="https://files.catbox.moe/cnxwwm.png" alt="me right now">
 
-WHOEVER WHISPERED ME THIS I LVOE YOU PLEASE WHISPER ME AGAIN YOU ARE SO COOL TOO I FELL ASLEEP AGAIN PLEASE COME BACK TOP ME
+i Found ou
