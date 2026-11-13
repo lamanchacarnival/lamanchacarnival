@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=center> <img src="https://files.catbox.moe/8lcozq.png" alt="WORK!!!!!!!!!!!!!!">
+
+<img src="https://i.imgur.com/XTxK4aQ.png">
+
+<p align=center> ⚠️⚠️ DNI FOREVER LCB311 <i><b>ROMANTIC SHIPPERS</b></i> DNI FOREVER ⚠️⚠️
+
 <p align=center> <img src=https://komarev.com/ghpvc/?username=lamanchacarnival&color=ffef23&style=flat-square&label=my+dreams&base=863>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -23,10 +27,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align=center> <b>DONQUI</b> . Yuva . +more || evil system. look at our evil evil profile here for who front (it might not be accurate)!!!!!!!!!!!!!!!!!! https://pluralkit.xyz/f/upwnts </p>
+<p align=center> <b>DONQUI</b> . Yuva . +more || i any pronouns. iam don quixote irl https://pluralkit.xyz/f/upwnts </p>
+
+<img src="https://static.wikia.nocookie.net/library-of-ruina/images/0/07/HookOfficeIcon.png" width=50px height=50px> <img src="https://static.wikia.nocookie.net/library-of-ruina/images/4/44/WedgeOfficeIcon.png" width=50px height=50px><img src="https://static.wikia.nocookie.net/library-of-ruina/images/4/4d/StreetlightOfficeIcon.png" width=50px height=50px><img src="https://static.wikia.nocookie.net/library-of-ruina/images/f/f3/Yun%27sOfficeIcon.png" width=50px height=50px><img src="https://libraryofruina.wiki.gg/images/Full-StopOfficeIcon.png" width=50px height=50px><img src="https://static.wikia.nocookie.net/library-of-ruina/images/1/1c/DawnOfficeIcon.png" width=50px height=50px>
 
 
-
-<p align=center> <img src="https://files.catbox.moe/cnxwwm.png" alt="me right now">
-
-i Found ou
