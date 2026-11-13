@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=center> <img src=https://files.catbox.moe/8lcozq.png>
+<p align=center> <img src="https://files.catbox.moe/8lcozq.png" alt="WORK!!!!!!!!!!!!!!">
 <p align=center> <img src=https://komarev.com/ghpvc/?username=lamanchacarnival&color=ffef23&style=flat-square&label=my+dreams&base=863>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
