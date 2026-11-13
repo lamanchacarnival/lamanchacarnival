@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=center> <img src="https://limbuscompany.wiki.gg/images/Wedge_Office_Fixer_Don_Quixote_Full.png" width="700" height="500" alt="me right now">
+<p align=center> <img src=https://files.catbox.moe/8lcozq.png>
 <p align=center> <img src=https://komarev.com/ghpvc/?username=lamanchacarnival&color=ffef23&style=flat-square&label=my+dreams&base=863>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
